@@ -6,11 +6,19 @@ Zero-Dependency Procedural Audio Engine for Web Games
 
 Synthaura.js is a lightweight, pure JavaScript library that uses the browser's native `Web Audio API` to generate high-quality sound effects (SFX) and dynamic background music (BGM) purely through code. 
 
-**No `.mp3` or `.wav` files required.** Perfect for [JS13kGames](https://js13kgames.com/), HTML5 Playable Ads, Game Jams, and web-based Metaverse projects where bundle size matters.
+**No `.mp3` or `.wav` files required.** Perfect for[JS13kGames](https://js13kgames.com/), HTML5 Playable Ads, Game Jams, and web-based Metaverse projects where bundle size matters.
 
 ![Bundle Size](https://img.shields.io/badge/size-under_10kb-brightgreen)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## 🎮 Live Demos (Try it out!)
+
+Hearing is believing. Put on your headphones and check out what procedural audio can do:
+
+* 🕹️ **[Real-world Game Demo](https://bsstata.icu:5000)** - A fully playable web game utilizing `Synthaura.js` for all its SFX and BGM. *(Note: Hosted on a custom server, may take a second to load).*
 
 ## ✨ Features
 
