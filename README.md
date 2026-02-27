@@ -78,6 +78,8 @@ Synthaura uses Subtractive and FM (Frequency Modulation) synthesis. It passes cu
 ### 📄 License
 MIT License. Free to use in your commercial or open-source games!
 
+### This project was built with the assistance of AI.
+
 ---
 
 <h2 id="简体中文">🇨🇳 简体中文</h2>
@@ -149,3 +151,5 @@ Synthaura 采用了减法合成（Subtractive）与 FM 调频合成。例如：�
 
 ### 📄 开源协议
 采用 MIT 协议，你可以自由地将其用于你的开源或商业游戏中！
+
+### 本项目由AI辅助构建。
