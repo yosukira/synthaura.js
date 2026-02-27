@@ -18,7 +18,7 @@ Synthaura.js is a lightweight, pure JavaScript library that uses the browser's n
 
 Hearing is believing. Put on your headphones and check out what procedural audio can do:
 
-* 🕹️ **[Real-world Game Demo](https://bsstata.icu:5000)** - A fully playable web game utilizing `Synthaura.js` for all its SFX and BGM. *(Note: Hosted on a custom server, may take a second to load).*
+* 🕹️ **[Game Demo](https://bsstata.icu:5000)** - A fully playable web game utilizing `Synthaura.js` for all its SFX and BGM. *(Note: Hosted on a custom server, may take a second to load).*
 
 ## ✨ Features
 
