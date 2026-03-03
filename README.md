@@ -10,7 +10,8 @@
 
 Synthaura.js is a lightweight, pure JavaScript library that uses the browser's native `Web Audio API` to generate high-quality sound effects (SFX) and dynamic background music (BGM) purely through code. 
 
-**No `.mp3` or `.wav` files required.** Perfect for [JS13kGames](https://js13kgames.com/), HTML5 Playable Ads, Game Jams, and web-based Metaverse projects where bundle size matters.
+**No `.mp3` or `.wav` files required.** Perfect for Game Jams, HTML5 Playable Ads, 
+and any project where loading audio files is impractical.
 
 ![Bundle Size](https://img.shields.io/badge/size-under_10kb-brightgreen)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-blue)
@@ -73,6 +74,7 @@ document.getElementById('start-btn').addEventListener('click', () => {
 ```
 
 ### 🧠 How it Works
+Think of it like a tiny synthesizer built into your browser — no samples, just math.
 Synthaura uses Subtractive and FM (Frequency Modulation) synthesis. It passes custom-generated Pink/White noise through BiquadFilters and WaveShaper distortion nodes for environmental sounds, and manipulates Oscillator frequency curves using `exponentialRampToValueAtTime` for punchy transients.
 
 ### 📄 License
